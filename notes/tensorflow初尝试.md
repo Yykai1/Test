@@ -42,7 +42,7 @@ print(tf.test.is_gpu_available())
 
 运行结果如下：（整体来看是没有问题的，但是里面好像有警告，大概意思就是我里面没有GPU的相关库）
 
-![image-20211130110605487](.\screenshot\image-20211130110605487.png)
+![image-20211130110605487](https://github.com/Yykai1/Test/blob/main/notes/screenshot/image-20211130110605487.png)
 
 ###### 2.0.1 **补充知识-1**
 
