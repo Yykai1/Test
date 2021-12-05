@@ -156,7 +156,7 @@ random1_t = tf.random.normal([2, 3], seed=12)  # 种子只能有整数值
 
 
 
-![image-20211130181919011](D:\Life\工作\md文档\自学习\机器学习\image-20211130181919011.png)
+![image-20211130181919011](.\image-20211130181919011.png)
 
 ```python
 # -*- coding:utf-8 -*-
