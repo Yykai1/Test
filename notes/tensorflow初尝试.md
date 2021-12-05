@@ -156,7 +156,7 @@ random1_t = tf.random.normal([2, 3], seed=12)  # 种子只能有整数值
 
 
 
-![image-20211130181919011](.\screenshot\image-20211130181919011.png)
+![image-20211130181919011](https://github.com/Yykai1/Test/blob/main/notes/screenshot\image-20211130181919011.png)
 
 ```python
 # -*- coding:utf-8 -*-
@@ -266,7 +266,7 @@ sess.close()
 
 下面的插图是我使用python3.6.8（没记错的话）和tensorflow1.5.5来进行学习的，虽然还是遇到了tf.Session()被抛弃，还是要使用tf.compat.v1.Session()，虽然这样，我感觉下面的红色部分消失之后内心还是很开心的。
 
-![image-20211201100507807](.\screenshot\image-20211201100507807.png)
+![image-20211201100507807](https://github.com/Yykai1/Test/blob/main/notes/screenshot\image-20211201100507807.png)
 
 ###### 4.1.2 补充知识-2
 
@@ -502,7 +502,7 @@ print(sess.run(W))
 
 **常见的操作如下图所示：**
 
-![image-20211203175154186](.\screenshot\image-20211203175154186.png)
+![image-20211203175154186](https://github.com/Yykai1/Test/blob/main/notes/screenshot\image-20211203175154186.png)
 
 
 
@@ -583,9 +583,9 @@ if __name__ == '__main__':
 
 下面这个tensorboard看起来不是很清晰，内容还是比较乱的，然后我们可以，重新定义命名空间，然后就会发现
 
-![image-20211205101226243](.\screenshot\image-20211205101226243.png)
+![image-20211205101226243](https://github.com/Yykai1/Test/blob/main/notes/screenshot\image-20211205101226243.png)
 
 优化后的图像
 
-![image-20211205101731863](.\screenshot\image-20211205101731863.png)
+![image-20211205101731863](https://github.com/Yykai1/Test/blob/main/notes/screenshot\image-20211205101731863.png)
 
